@@ -1,0 +1,43 @@
+.contenedor1{
+	background-color: #a32238;
+	text-align: center;
+	height: 200px;
+	padding: 20px;
+}
+p{
+	color: #ffffff;
+}
+
+.contenedor2 {
+		background-color: #0189c0;
+		text-align: center;
+		height: auto;
+		padding: 100px;
+}
+.contenedor2 img{
+	width: 500px;
+}
+.contenedor3 {
+	padding: 40px;
+	background-color: white;
+}
+
+.bruja {
+	background-image: url(../images/cuzco2.jpg);
+	background-size: cover;
+	height: 400px;
+	padding: 40px;
+	text-align: right;
+}
+ul{
+	font-family: El Rio Lobo;
+}
+h1{
+	color: #f1ae30;
+}
+h2 {font-family: 'El Rio Lobo'; 
+	font-size: 65px;
+	text-align: center; 
+	color:black;
+	margin: 30px auto;
+}
